@@ -1,9 +1,9 @@
 <?php
 
-namespace MyCleanArchBootstrap\Domain\ValueObjects\Identity;
+namespace PhpCleanArch\Identity;
 
 use Stringable;
-use MyCleanArchBootstrap\Domain\ValueObjects\ValueObjectInterface;
+use PhpCleanArch\ValueObjects\ValueObjectInterface;
 
 /**
  * Some unique identity for our entities, should be unique in every collection of the same type
