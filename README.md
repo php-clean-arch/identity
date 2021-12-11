@@ -1,0 +1,1 @@
+An identity allows objects to be identified by what they are are, instead of what they're made of.

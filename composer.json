@@ -1,6 +1,6 @@
 {
     "name": "php-clean-arch/identity",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "type": "library",
     "description": "Defines what an identity is for the data we handle in our application",
     "authors": [
@@ -16,6 +16,6 @@
     },
     "require": {
         "php": ">=8.0",
-        "php-clean-arch/value-object": "0.2"
+        "php-clean-arch/value-object": "0.3"
     }
 }

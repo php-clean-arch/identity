@@ -4,7 +4,7 @@ namespace PhpCleanArch\Identity;
 
 use Stringable;
 use PhpCleanArch\ValueObjects\ValueObjectInterface;
-
+    
 /**
  * Some unique identity for our entities, should be unique in every collection of the same type
  *
